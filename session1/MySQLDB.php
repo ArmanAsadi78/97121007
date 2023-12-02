@@ -61,8 +61,7 @@ class MySQLDB{
 
     public function insert($table, $data) {
         $columns = implode(", ", array_keys($data));
-        $values = implode(", :", array_keys($data));
-        $params = ":" . implode(", :", array_keys($data));
+        $values = ":".implode(", :", array_keys($data));
 
         $sql = "INSERT INTO $table ($columns) VALUES ($values)";
 
