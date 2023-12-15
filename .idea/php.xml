@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ChangeListManager">
-    <list default="true" id="8802ebe1-f441-4934-bda2-00b4bf88d6ca" name="Changes" comment="" />
-    <option name="SHOW_DIALOG" value="false" />
-    <option name="HIGHLIGHT_CONFLICTS" value="true" />
-    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
-    <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="ComposerSettings" doNotAsk="true">
-    <pharConfigPath>$PROJECT_DIR$/laravel/composer.json</pharConfigPath>
-    <execution />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="HTML File" />
-      </list>
-    </option>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
+  <component name="PhpIncludePathManager">
     <include_path>
       <path value="$PROJECT_DIR$/laravel/vendor/league/commonmark" />
       <path value="$PROJECT_DIR$/laravel/vendor/league/config" />
@@ -140,63 +116,12 @@
       <path value="$PROJECT_DIR$/laravel/vendor/dflydev/dot-access-data" />
     </include_path>
   </component>
-  <component name="ProjectId" id="2X7xdHTLaDfpH6OaqlI1nuaWCLD" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
+  <component name="PhpProjectSharedConfiguration" php_language_level="8.0">
+    <option name="suggestChangeDefaultLanguageLevel" value="false" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.zend.framework.tool" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
-  <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="8802ebe1-f441-4934-bda2-00b4bf88d6ca" name="Changes" comment="" />
-      <created>1697994021924</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1697994021924</updated>
-      <workItem from="1697994031243" duration="1356000" />
-      <workItem from="1698927145474" duration="2771000" />
-      <workItem from="1699265302298" duration="1130000" />
-      <workItem from="1699266927478" duration="1788000" />
-      <workItem from="1700115311128" duration="4170000" />
-      <workItem from="1700211453055" duration="1095000" />
-      <workItem from="1700212835637" duration="13916000" />
-      <workItem from="1701081367598" duration="1161000" />
-      <workItem from="1701257408395" duration="2372000" />
-      <workItem from="1701359939540" duration="7182000" />
-      <workItem from="1701498919222" duration="4770000" />
-      <workItem from="1701848452186" duration="2858000" />
-      <workItem from="1701963648246" duration="2671000" />
-      <workItem from="1702539088642" duration="1328000" />
-      <workItem from="1702629238514" duration="580000" />
-    </task>
-    <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings custom_loader_path="$PROJECT_DIR$/laravel/vendor/autoload.php" />
+    </phpunit_settings>
   </component>
 </project>
